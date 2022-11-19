@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PetShopApi.Services/1.0.0": {
+        "dependencies": {
+          "PetShopApi.Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "PetShopApi.Services.dll": {}
+        }
+      },
+      "PetShopApi.Common/1.0.0": {
+        "runtime": {
+          "PetShopApi.Common.dll": {}
+        }
+      },
+      "PetShopApi.Interfaces/1.0.0": {
+        "dependencies": {
+          "PetShopApi.Common": "1.0.0"
+        },
+        "runtime": {
+          "PetShopApi.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetShopApi.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetShopApi.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetShopApi.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

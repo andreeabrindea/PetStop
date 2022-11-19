@@ -1,0 +1,17 @@
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\bin\Debug\net6.0\PetShopApi.Services.deps.json
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\bin\Debug\net6.0\PetShopApi.Services.dll
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\bin\Debug\net6.0\PetShopApi.Services.pdb
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\bin\Debug\net6.0\PetShopApi.Common.dll
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\bin\Debug\net6.0\PetShopApi.Interfaces.dll
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\bin\Debug\net6.0\PetShopApi.Interfaces.pdb
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\bin\Debug\net6.0\PetShopApi.Common.pdb
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\PetShopApi.Services.csproj.AssemblyReference.cache
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\PetShopApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\PetShopApi.Services.AssemblyInfoInputs.cache
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\PetShopApi.Services.AssemblyInfo.cs
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\PetShopApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\PetShopApi.Services.csproj.CopyComplete
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\PetShopApi.Services.dll
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\refint\PetShopApi.Services.dll
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\PetShopApi.Services.pdb
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Services\obj\Debug\net6.0\ref\PetShopApi.Services.dll

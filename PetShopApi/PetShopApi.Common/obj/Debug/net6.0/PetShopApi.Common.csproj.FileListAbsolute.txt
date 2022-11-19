@@ -1,0 +1,12 @@
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\bin\Debug\net6.0\PetShopApi.Common.deps.json
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\bin\Debug\net6.0\PetShopApi.Common.dll
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\bin\Debug\net6.0\PetShopApi.Common.pdb
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\obj\Debug\net6.0\PetShopApi.Common.csproj.AssemblyReference.cache
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\obj\Debug\net6.0\PetShopApi.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\obj\Debug\net6.0\PetShopApi.Common.AssemblyInfoInputs.cache
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\obj\Debug\net6.0\PetShopApi.Common.AssemblyInfo.cs
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\obj\Debug\net6.0\PetShopApi.Common.csproj.CoreCompileInputs.cache
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\obj\Debug\net6.0\PetShopApi.Common.dll
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\obj\Debug\net6.0\refint\PetShopApi.Common.dll
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\obj\Debug\net6.0\PetShopApi.Common.pdb
+C:\Users\tpodi\Desktop\_projects\PetStop\PetShopApi\PetShopApi.Common\obj\Debug\net6.0\ref\PetShopApi.Common.dll

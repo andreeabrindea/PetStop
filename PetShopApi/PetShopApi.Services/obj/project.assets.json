@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "PetShopApi.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PetShopApi.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PetShopApi.Common.dll": {}
+        }
+      },
+      "PetShopApi.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "PetShopApi.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PetShopApi.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PetShopApi.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetShopApi.Common/1.0.0": {
+      "type": "project",
+      "path": "../PetShopApi.Common/PetShopApi.Common.csproj",
+      "msbuildProject": "../PetShopApi.Common/PetShopApi.Common.csproj"
+    },
+    "PetShopApi.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../PetShopApi.Interfaces/PetShopApi.Interfaces.csproj",
+      "msbuildProject": "../PetShopApi.Interfaces/PetShopApi.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "PetShopApi.Interfaces >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tpodi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\tpodi\\Desktop\\_projects\\PetStop\\PetShopApi\\PetShopApi.Services\\PetShopApi.Services.csproj",
+      "projectName": "PetShopApi.Services",
+      "projectPath": "C:\\Users\\tpodi\\Desktop\\_projects\\PetStop\\PetShopApi\\PetShopApi.Services\\PetShopApi.Services.csproj",
+      "packagesPath": "C:\\Users\\tpodi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tpodi\\Desktop\\_projects\\PetStop\\PetShopApi\\PetShopApi.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tpodi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\tpodi\\Desktop\\_projects\\PetStop\\PetShopApi\\PetShopApi.Interfaces\\PetShopApi.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\tpodi\\Desktop\\_projects\\PetStop\\PetShopApi\\PetShopApi.Interfaces\\PetShopApi.Interfaces.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\tpodi\\.dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
